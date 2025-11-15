@@ -1,0 +1,2 @@
+# BMI-Calculator-JavaScript
+A simple BMI calculator built with JavaScript for quick body mass index calculation. Helps users measure health category using height and weight inputs. Perfect for health apps, demo projects, and learning logic.
